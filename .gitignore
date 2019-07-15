@@ -241,3 +241,5 @@ modules.xml
 
 # End of https://www.gitignore.io/api/linux,macos,pycharm,pycharm+iml,pycharm+all,jupyternotebooks
 
+
+your-project/geniustoken\.txt
