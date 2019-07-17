@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Emanuele, Kerim and Pau*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Full-time Bootcamp Barcelona 2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,29 +16,36 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+This project consist on extract data through API and .csv related music songs and its lyrics. Once we got the data, put all in order and plot it via Zeppelin.
+The final results should be analized and showed.
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+The question that we did was: Which frequently words have been used most in each lyrics in a total of 500 lyrics during 5years (from 2014 until 2018 included).
+Check which are the most used words in recent popular music.
+Check the artists with the largest vocabulary.
+Average numbers of uniques words per song.
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
+The dataset have been extracted from lyricsgenius API and .csv related music songs and its lyrics.
+Genius Lyrics API: https://github.com/johnwmillr/LyricsGenius
+[Chart2000.com](http://chart2000.com) - Monthly updated charts from multiple sources in .csv format: [https://chart2000.com/about.htm#results](https://chart2000.com/about.htm#results)
+Genius API: [https://genius.com/api-clients](https://genius.com/api-clients)
 
 [Dataset]() 
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+First we did a brainstorming to choose the topic, music. Afterwards we decided which questions we are going to write to solve it and therefore display it.
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+To organize the projecte we used Trello for the tasks and Notion like a guideline for us to follow the correct path.
 
 <a name="links"></a>
 
