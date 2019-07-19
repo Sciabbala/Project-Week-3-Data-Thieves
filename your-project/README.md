@@ -52,6 +52,6 @@ To organize the projecte we used Trello for the tasks and Notion like a guidelin
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Sciabbala/Project-Week-3-Data-Thieves/)  
+[Slides](https://docs.google.com/presentation/d/1KTiBYDPJxQ1uNjaaopLoNj_bSarSQTedj77h71fFT-g/edit?usp=sharing)  
+[Trello](https://trello.com/b/oq64DlH6/project-3-data-thieves)  
